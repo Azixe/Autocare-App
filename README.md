@@ -17,3 +17,8 @@ Anggota Kelompok:
 > - jdatepicker
 > - jcalender
 > - itextpdf
+
+
+## ER Diagram
+![Autocare](https://github.com/Azixe/Autocare-App/assets/121442635/bed5434e-ddd2-4765-a393-0f50e310db0b)
+
